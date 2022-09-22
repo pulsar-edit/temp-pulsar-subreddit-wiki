@@ -4,7 +4,7 @@ These descriptions are for our post and user flairs.
 ## Post Flairs
 Post flair descriptions:
 
-* Documentation - Documentation for Pulsar, in any repository on [GitHub](https://github.com/pulsar-edit), or the [website](https://pulsar-edit.github.io).
+* Documentation - Documentation for Pulsar, in any repository on [GitHub](https://github.com/orgs/pulsar-edit/repositories), or the [website](https://pulsar-edit.github.io).
 * Core - Core for Pulsar. Mostly relatable to [the main GitHub repository](https://github.com/pulsar-edit/pulsar).
 * Backend - Backend for Pulsar. *No description yet*
 
